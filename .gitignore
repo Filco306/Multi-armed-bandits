@@ -1,0 +1,12 @@
+*.tex
+*.bib
+/Pics
+*.log
+*.bbl
+*.synctex.gz
+*.toc
+*.blg
+*.aux
+*.log
+.DS_Store
+/WorkingDoc
